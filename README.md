@@ -1,2 +1,2 @@
-# PCLsample01
-PCLでobjファイルを描画するサンプル
+# PCLsample
+PCLサンプル集
